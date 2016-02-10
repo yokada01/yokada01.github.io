@@ -1,1 +1,31 @@
-body 
+title {
+		font-family: Times; 
+}
+
+h1 {
+		font-family: Helvetica;
+		font-size: 30px;
+		margin-left: 10%;
+		margin-right: 10%
+}
+
+h2 {
+		font-family: Times;
+		font-size: 20px;
+		margin-left: 10%;
+		margin-right: 10%; 
+}
+
+h3 {
+		font-family: Times;
+		font-size: 15px;
+		margin-left: 30%;
+		margin-right: 30%;
+}
+
+h4 {
+		font-family: Times;
+		font-size: 15px;
+		margin-left: 30%;
+		margin-right: 30%;
+}
