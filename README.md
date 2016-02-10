@@ -22,4 +22,4 @@ COLLABORATER:
 Jim Mao (TA), Benjamin Francis
 
 HOURS SPENT:
-I have approximately spent 5 hours completing this assignment.
+I have approximately spent 6 hours completing this assignment.
